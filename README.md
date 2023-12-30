@@ -4,10 +4,6 @@
 <h1 align="center">Hi 👋, I'm Jose Rafael S. Hermoso</h1>
 <h3 align="center">Brazilian backend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joserafaelsh&label=Profile%20views&color=0e75b6&style=flat" alt="joserafaelsh" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joserafaelsh" alt="joserafaelsh" /></a> </p>
-
 - 🔭 I’m currently working on **Plin Energia**
 - 📚 Bachelor's degree in Computer Science from UEM
 - 📚 Back End Developer
