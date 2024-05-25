@@ -5,8 +5,10 @@
 <p align="left">- Software Developer<br>- Backend Lead at @Plinenergia<br>- DevOps Enthusiast<br>- Migrating to Fullstac</p>
 
 ###
+<a align="left" href="https://www.linkedin.com/in/jose-rafael-sh/" target="_blank">
+   See you here.
+  </a>
 
-<p align="left">[See you here.](https://joserafaelsh.github.io/my-web-site/)</p>
 
 ###
 
