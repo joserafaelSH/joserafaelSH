@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Software Developer<br>- Backend Lead at @Plinenergia<br>- DevOps Enthusiast<br>- Migrating to Fullstack</p>
+<p align="left">- Software Engineer<br>- Backend Developer<br>- DevOps Enthusiast
 
 ###
 <a align="left" href="https://www.linkedin.com/in/jose-rafael-sh/" target="_blank">
